@@ -1,0 +1,442 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "theabyss:unlockthebook": {
+    "criteria": {
+      "unlockthebook": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2026-06-18 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "quark:glimmering_weald": "2026-06-19 22:18:51 +0000",
+      "minecraft:birch_forest": "2026-06-18 05:51:41 +0000",
+      "minecraft:windswept_hills": "2026-06-18 05:28:09 +0000",
+      "minecraft:bamboo_jungle": "2026-06-18 05:53:57 +0000",
+      "minecraft:savanna_plateau": "2026-06-19 21:59:13 +0000",
+      "minecraft:beach": "2026-06-18 01:22:32 +0000",
+      "minecraft:stony_peaks": "2026-06-18 06:54:32 +0000",
+      "minecraft:sparse_jungle": "2026-06-18 05:58:55 +0000",
+      "minecraft:river": "2026-06-18 01:28:08 +0000",
+      "minecraft:stony_shore": "2026-06-19 21:57:34 +0000",
+      "minecraft:dripstone_caves": "2026-06-19 22:11:43 +0000",
+      "minecraft:swamp": "2026-06-18 01:28:01 +0000",
+      "minecraft:forest": "2026-06-18 01:10:23 +0000",
+      "minecraft:ocean": "2026-06-18 01:22:40 +0000",
+      "minecraft:jungle": "2026-06-18 05:52:59 +0000",
+      "minecraft:windswept_savanna": "2026-06-18 01:28:11 +0000",
+      "minecraft:old_growth_birch_forest": "2026-06-18 05:51:51 +0000",
+      "minecraft:deep_dark": "2026-06-19 22:18:52 +0000",
+      "minecraft:meadow": "2026-06-19 23:29:00 +0000",
+      "minecraft:savanna": "2026-06-18 05:47:02 +0000",
+      "minecraft:plains": "2026-06-18 01:13:07 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2026-06-18 01:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-18 01:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-06-18 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-06-18 01:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-06-18 01:19:18 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_boss_0": "2026-06-18 01:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2026-06-18 01:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2026-06-18 01:35:23 +0000",
+      "cooked_mutton": "2026-06-18 05:54:54 +0000",
+      "cooked_beef": "2026-06-18 08:49:46 +0000",
+      "beef": "2026-06-18 01:43:46 +0000",
+      "pumpkin_pie": "2026-06-18 07:15:28 +0000",
+      "mutton": "2026-06-24 22:07:20 +0000",
+      "bread": "2026-06-18 06:26:02 +0000",
+      "golden_apple": "2026-06-19 23:11:52 +0000",
+      "rotten_flesh": "2026-06-18 08:28:04 +0000",
+      "melon_slice": "2026-06-18 05:54:17 +0000",
+      "cooked_chicken": "2026-06-18 02:11:50 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2026-06-18 01:47:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2026-06-18 01:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-06-19 22:13:54 +0000",
+      "minecraft:spider": "2026-06-19 22:02:05 +0000",
+      "minecraft:zombified_piglin": "2026-06-25 07:56:49 +0000",
+      "minecraft:witch": "2026-06-19 23:35:31 +0000",
+      "minecraft:husk": "2026-06-20 02:37:48 +0000",
+      "minecraft:cave_spider": "2026-06-19 22:43:29 +0000",
+      "minecraft:silverfish": "2026-06-19 22:38:48 +0000",
+      "minecraft:zombie": "2026-06-18 01:51:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-06-18 01:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-06-18 02:01:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2026-06-18 05:26:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2026-06-18 05:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-06-18 05:29:51 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2026-06-18 05:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-06-18 05:39:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2026-06-18 05:39:58 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2026-06-18 05:49:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2026-06-18 05:50:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2026-06-18 05:56:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2026-06-18 05:56:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2026-06-18 06:02:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2026-06-18 06:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2026-06-18 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2026-06-18 06:25:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2026-06-18 07:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-18 08:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-06-18 09:16:29 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2026-06-18 09:29:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2026-06-19 20:37:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2026-06-19 21:58:58 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2026-06-19 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2026-06-19 22:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-06-19 22:24:28 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood_0": "2026-06-19 22:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-06-19 22:38:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2026-06-19 22:56:30 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2026-06-19 23:02:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2026-06-19 23:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-06-19 23:21:54 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2026-06-19 23:23:07 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2026-06-19 23:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-06-19 23:26:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2026-06-19 23:46:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2026-06-19 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2026-06-19 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-06-20 00:43:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2026-06-20 00:43:44 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2026-06-20 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2026-06-24 22:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-06-25 07:32:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
